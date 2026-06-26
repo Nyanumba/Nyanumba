@@ -20,10 +20,10 @@ I'm a software developer based in Kenya, focused on building backend systems and
 ![Express](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Javascript](https://img.shields.io/badge/Javascript-f1e05a?style=flat&logo=javascript&logoColor=black)
-![HTML](https://img.shields.io/badge/Html-e34c26?style=flat&logo=Html&logoColor=blue)
+![HTML](https://img.shields.io/badge/HTML-e34c26?style=flat&logo=Html&logoColor=blue)
 ![Node.js](https://img.shields.io/badge/Node.js-f1e05a?style=flat&logo=Node&logoColor=yellow)
 ![Java](https://img.shields.io/badge/Java-b07219?style=flat&logo=Java&logoColor=brown)
-![C#](https://img.shields.io/badge/C#-178600?style=flat&logo=C#&logoColor=green)
+![C#](https://img.shields.io/badge/Csharp-178600?style=flat&logo=C#&logoColor=green)
 ![C](https://img.shields.io/badge/C-555555?style=flat&logo=C&logoColor=darkgray)
 ![C++](https://img.shields.io/badge/C++-f34b7d?style=flat&logo=C++&logoColor=pinkred)
 
