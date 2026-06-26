@@ -39,6 +39,12 @@ I'm a software developer based in Kenya, focused on building backend systems and
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Github](https://img.shields.io/badge/GitHub-b845fc?style=flat&logo=github&logoColor=white)
+![Pandas](https://shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![Power BI](https://shields.io/badge/PowerBi-F2C811?style=flat&logo=powerbi&logoColor=white)
+![Render](https://shields.io/badge/Render-000000?style=flat&logo=render&logoColor=white)
+![Railway](https://shields.io/badge/Railway-131415?style=flat&logo=railway&logoColor=white)
+![Linux](https://shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=white)
+![Windows](https://shields.io/badge/Windows-0078D4?style=flat&logo=windows&logoColor=white)
 
 ---
 
