@@ -19,7 +19,7 @@ I'm a software developer based in Kenya, focused on building backend systems and
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Javascript](https://img.shields.io/badge/Javascript-f1e05a?style=flat&logo=javascript&logoColor=yellow)
+![Javascript](https://img.shields.io/badge/Javascript-f1e05a?style=flat&logo=javascript&logoColor=black)
 ![HTML](https://img.shields.io/badge/Html-e34c26?style=flat&logo=Html&logoColor=blue)
 
 **Databases**
