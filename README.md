@@ -76,6 +76,7 @@ I'm a software developer based in Kenya, focused on building backend systems and
     src="https://github-readme-stats-delta-teal-69.vercel.app/api/top-langs?username=Nyanumba&layout=compact&theme=github_dark"
     height="170"
     alt="Top Languages"
+    
   />
 </p>
 
