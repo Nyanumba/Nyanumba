@@ -66,7 +66,7 @@ I'm a software developer based in Kenya, focused on building backend systems and
 
 ### 📊 GitHub Stats
 
-![Anthony's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nyanumba&show_icons=true&theme=default&hide_title=true)
+[![Anthony's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nyanumba&show_icons=true&theme=default&hide_title=true)](https://github-readme-stats.vercel.app/api?username=Nyanumba&show_icons=true&theme=default&hide_title=true)
 
 ---
 
